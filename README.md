@@ -1,5 +1,4 @@
-# COVID APP <img width="470" alt="Screenshot 2021-07-07 at 6 09 33 PM" src="https://user-images.githubusercontent.com/63747907/124760932-de014380-df4e-11eb-9d4a-edf12c439b4e.png">. <img width="650" alt="Screenshot 2021-07-07 at 6 15 31 PM" src="https://user-images.githubusercontent.com/63747907/124761391-5ff16c80-df4f-11eb-9518-5aee485dbb02.png">
-
+# COVID APP <img width="470" alt="Screenshot 2021-07-07 at 6 09 33 PM" src="https://user-images.githubusercontent.com/63747907/124760932-de014380-df4e-11eb-9d4a-edf12c439b4e.png">.
 		
 
 ABOUT THE PROJECT
