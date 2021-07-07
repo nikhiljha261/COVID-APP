@@ -18,7 +18,7 @@ const Footer = () => {
         >
           Created  by{" "}
           <a
-            href="https://github.com/nikhiljha261/CORONA-TRACKER"
+            href="https://github.com/nikhiljha261/COVID-APP"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "rgba(0,0,255,0.6)", textDecoration: "none" }}
